@@ -194,3 +194,9 @@ print(result)
 ---
 
 Bu proje, Atil Samancioglu'nun "Yapay Zeka Uygulamalari: Langchain, RAG, LLM Orchestration" kursundan alinmistir.
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yigitcancskun/advanced-rag-agent&type=date&legend=top-left)](https://www.star-history.com/#yigitcancskun/advanced-rag-agent&type=date&legend=top-left)
